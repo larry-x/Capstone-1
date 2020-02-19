@@ -1,0 +1,1 @@
+Console application in .NET: keep inventory, user menu, file IO Built in Visual Studio 2017 Allows users to add money, select products, update stock and log all relevant actions BE SURE TO CHANGE FILE PATHES IN FILE ACCESS CLASS
